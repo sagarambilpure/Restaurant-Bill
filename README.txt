@@ -9,3 +9,6 @@ gives analysis on the data by showing graphs.
 Import sql.sql file in your database
 In smtp_mail put emailid and password
 Connect to a network
+
+-----Note-----
+run Restaurant.py file
